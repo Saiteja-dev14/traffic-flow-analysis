@@ -1,11 +1,20 @@
-# Real-Time Traffic Flow Analysis
+# Real-Time Traffic Flow Analysis & Violation Detection
 
-This project analyzes traffic flow and detects violations in real time.
+This project is a real-time traffic monitoring system that analyzes traffic flow
+and detects violations such as signal jumping and lane violations.
 
 ## Features
-- Real-time traffic monitoring
-- Vehicle detection and tracking
-- Violation identification
+- Real-time vehicle detection and tracking
+- Violation detection (signal jumping, lane violations)
+- Data-driven traffic flow analysis
 
 ## Technologies
-Python, OpenCV, Machine Learning
+Python, OpenCV, Machine Learning, Object Detection
+
+## Highlights
+- Pipelined object tracking for efficient real-time processing
+- Hands-on experience with computer vision and traffic analytics
+
+## Contact
+Email: j.saiteja05@gmail.com
+LinkedIn: https://www.linkedin.com/in/saiteja-ml/
